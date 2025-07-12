@@ -1,1 +1,23 @@
-
+{
+  "assertionMethod": [
+    "did:web:shubhm-m.github.io:certify:local#key-0"
+  ],
+  "service": [],
+  "id": "did:web:shubhm-m.github.io:certify:local",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6MkudLsjk5RsaVDJC9hAtaSQi3nBZFXotBViUdJ6XAeqNN5",
+      "controller": "did:web:shubhm-m.github.io:certify:local",
+      "id": "did:web:shubhm-m.github.io:certify:local#key-0",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:shubhm-m.github.io:certify:local#key-0"
+  ]
+}
