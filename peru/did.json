@@ -6,7 +6,7 @@
   "id": "did:web:shubhm-m.github.io:certify:peru",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mko91M4oah3dwu8Yicr51sr1Lex5bJ5QwcvJX5aDg9G7hQ",
+      "publicKeyMultibase": "z6MkfZwffDdoXXfTYiv27egntZ7HyCy1aP8XXrQNAta7xa4V",
       "controller": "did:web:shubhm-m.github.io:certify:peru",
       "id": "did:web:shubhm-m.github.io:certify:peru#key-0",
       "type": "Ed25519VerificationKey2020",
