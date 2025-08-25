@@ -6,7 +6,7 @@
   "id": "did:web:raw.githubusercontent.com:kunalash:certify:refs:heads:gh-pages:peru",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkh7EUi9WLVTpKk72rSnDZcuLA8dCXhENKLGonXsngAsYb",
+      "publicKeyMultibase": "z6MkrnMZNHSSV7Hs566k5fuemtcWeNa2DoWYSGRSpegPBZVJ",
       "controller": "did:web:raw.githubusercontent.com:kunalash:certify:refs:heads:gh-pages:peru",
       "id": "did:web:raw.githubusercontent.com:kunalash:certify:refs:heads:gh-pages:peru#key-0",
       "type": "Ed25519VerificationKey2020",
